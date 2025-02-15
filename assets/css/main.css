@@ -3893,7 +3893,7 @@ input, select, textarea {
 		@media screen and (max-width: 980px) {
 
 			#header {
-				height: auto;
+				height: center;
 				min-height: 0;
 			}
 
